@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d726daf-1f54-4872-bbdd-3a73f99ed005" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1aH72tRAlzpkSlo5AI4rZLcsW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/bruno/IdeaProjects/SelenideTestes/testng.xml">
+    <configuration name="GoogleTestes.testeSoma" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelenideTestes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleTestes" />
+      <option name="METHOD_NAME" value="testeSoma" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NovoUsuarioTestes" type="TestNG" nameIsGenerated="true">
+      <module name="SelenideTestes" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NovoUsuarioTestes" />
+      <option name="METHOD_NAME" value="usuarioPreencherPesquisaGoogle" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NovoUsuarioTestes.testeSoma" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelenideTestes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NovoUsuarioTestes" />
+      <option name="METHOD_NAME" value="testeSoma" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteAcessarPagina.testeSoma" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelenideTestes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteAcessarPagina" />
+      <option name="METHOD_NAME" value="testeSoma" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelenideTestes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/bruno/IdeaProjects/SelenideTestes/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelenideTestes" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./home/bruno/IdeaProjects/SelenideTestes/testng.xml" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.NovoUsuarioTestes" />
+      <item itemvalue="TestNG.NovoUsuarioTestes.testeSoma" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/bruno/IdeaProjects/SelenideTestes/testng.xml" />
+        <item itemvalue="TestNG.GoogleTestes.testeSoma" />
+        <item itemvalue="TestNG.NovoUsuarioTestes.testeSoma" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d726daf-1f54-4872-bbdd-3a73f99ed005" name="Default Changelist" comment="" />
+      <created>1576422963575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576422963575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576438411695">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="141" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.686@0.27.1366.686" timestamp="1576438411695" />
+    <state x="110" y="147" width="1146" height="446" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576437376935">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="110" y="147" width="1146" height="446" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1366.686@0.27.1366.686" timestamp="1576437376935" />
+    <state x="416" y="119" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576460891794">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="416" y="119" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.686@0.27.1366.686" timestamp="1576460891794" />
+    <state x="418" y="201" width="510" height="337" key="#com.intellij.tools.ToolEditorDialog" timestamp="1576425787810">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="418" y="201" width="510" height="337" key="#com.intellij.tools.ToolEditorDialog/0.27.1366.686@0.27.1366.686" timestamp="1576425787810" />
+    <state width="1299" height="68" key="GridCell.Tab.0.bottom" timestamp="1576465836103">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1299" height="68" key="GridCell.Tab.0.bottom/0.27.1366.686@0.27.1366.686" timestamp="1576465836103" />
+    <state width="1299" height="68" key="GridCell.Tab.0.center" timestamp="1576465836101">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1299" height="68" key="GridCell.Tab.0.center/0.27.1366.686@0.27.1366.686" timestamp="1576465836101" />
+    <state width="1299" height="68" key="GridCell.Tab.0.left" timestamp="1576465836100">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1299" height="68" key="GridCell.Tab.0.left/0.27.1366.686@0.27.1366.686" timestamp="1576465836100" />
+    <state width="1299" height="68" key="GridCell.Tab.0.right" timestamp="1576465836102">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1299" height="68" key="GridCell.Tab.0.right/0.27.1366.686@0.27.1366.686" timestamp="1576465836102" />
+    <state width="1300" height="180" key="GridCell.Tab.1.bottom" timestamp="1576438436627">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1300" height="180" key="GridCell.Tab.1.bottom/0.27.1366.686@0.27.1366.686" timestamp="1576438436627" />
+    <state width="1300" height="180" key="GridCell.Tab.1.center" timestamp="1576438436627">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1300" height="180" key="GridCell.Tab.1.center/0.27.1366.686@0.27.1366.686" timestamp="1576438436627" />
+    <state width="1300" height="180" key="GridCell.Tab.1.left" timestamp="1576438436627">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1300" height="180" key="GridCell.Tab.1.left/0.27.1366.686@0.27.1366.686" timestamp="1576438436627" />
+    <state width="1300" height="180" key="GridCell.Tab.1.right" timestamp="1576438436627">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1300" height="180" key="GridCell.Tab.1.right/0.27.1366.686@0.27.1366.686" timestamp="1576438436627" />
+    <state x="172" y="27" width="1012" height="686" key="SettingsEditor" timestamp="1576452961495">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="172" y="27" width="1012" height="686" key="SettingsEditor/0.27.1366.686@0.27.1366.686" timestamp="1576452961495" />
+    <state x="339" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1576425855376">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="339" y="197" key="com.intellij.ide.util.TipDialog/0.27.1366.686@0.27.1366.686" timestamp="1576425855376" />
+    <state x="328" y="27" width="869" height="686" key="find.popup" timestamp="1576466163557">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="328" y="27" width="869" height="686" key="find.popup/0.27.1366.686@0.27.1366.686" timestamp="1576466163557" />
+    <state x="0" y="74" width="1356" height="592" key="new project wizard" timestamp="1576425296799">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="0" y="74" width="1356" height="592" key="new project wizard/0.27.1366.686@0.27.1366.686" timestamp="1576425296799" />
+  </component>
+</project>
